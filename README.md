@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Jhon-H/Jhon-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Actualmente estoy participando en un bootcamp
+- 🌱 Actualmente estoy aprendiendo React y Jquey
+- 👯 Este año (2021) espero haber aprendido lo anterion + SASS y React native
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Cómo encontrarme: 
+
+<--
+- Qué quiero aprender:
+- Sass
+- Jquery
+- ReactNative
+- React
+- Redux
+- Redux y react
+- Boostrap React
+- Animaciones css
+- Canvas Html
+- Geolocalizcion Html
+- Regex
+- Next Js
 -->
+
