@@ -3,9 +3,9 @@
 ¡Bienvenido a mi perfil! Aquí encontrarás información sobre mi experiencia, habilidades y proyectos. Explora para conocer más sobre mi trabajo y cómo puedo aportar valor a tus proyectos.
 
 - 🔭 Trabajando en proyectos personales.
-- 🌱 Investigando sobre Ionic, arquitecturas limpias, DDD y microfrontends.
+- 🌱 Investigando sobre Web performance, arquitecturas limpias, DDD y microfrontends.
 - 👯 Interesado en colaborar en proyectos open source con impacto.
-- 💬 Pregúntame sobre temas frontend, especialmente Angular, microfrontends y arquitecturas limpias.
+- 💬 Pregúntame sobre  Microfrontends, Arquitecturas limpias, Patrones de diseño, Web performance, AWS.
 - 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/jhon-jairo-hernandez/), leer mis publicaciones en [Medium](https://medium.com/@jhon.jairo.hernandez), seguir mis actividades en [Codeforces](https://codeforces.com/profile/Jhon_z09) y ver mis proyectos en [GitHub](https://github.com/Jhon-H).
 - ⚡ Dato curioso: 🤔
 
@@ -18,6 +18,6 @@
 
 ## ✨ Sobre mi
 
-Soy desarrollador frontend con más de 3 años de experiencia en la creación de aplicaciones empresariales de diferentes tipos. He implementado soluciones tecnológicas para clientes con Angular, React, Gatsby y Next para lograr aplicaciones robustas y escalables.
+Soy ingeniero de softwarecon más de 4 años de experiencia en la creación de aplicaciones empresariales de gran impacto. He implementado soluciones tecnológicas para clientes usando Angular, React, Gatsby, Next y Astro para lograr aplicaciones robustas y escalables.
 
 Me apasiona la algoritmia y disfruto aprendiendo constantemente sobre nuevos temas relacionados con la ingeniería de software. Actualmente, estoy desarrollando proyectos personales que buscan aportar valor a la comunidad de desarrollo.
