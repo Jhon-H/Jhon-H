@@ -13,8 +13,10 @@
 
 - [Introducción a Astro: Una guía práctica para principiantes](https://medium.com/somos-pragma/introducci%C3%B3n-a-astro-una-gu%C3%ADa-pr%C3%A1ctica-para-principiantes-9323a4fa428d)
 - [Nano Store: Estado global en Astro](https://medium.com/somos-pragma/nano-store-estado-global-en-astro-734725fe1773)
-- Patrones de diseño aplicados a Frontend (_Escribiendo ✍️_)
-- Integrando Contentful en Astro: Hagamos sitios con contenido dinámico (_Escribiendo ✍️_)
+- [Maquinas de estado finitas en FrontEnd: El secreto para un código más robusto]()
+- [Cache Busting - La guía definitiva para evitar problemas de caché en tus despliegues]()
+- Patrones de diseño aplicados a Frontend (_En roadmap 🚀_)
+- Integrando Contentful en Astro: Hagamos sitios con contenido dinámico (_En roadmap 🚀_)
 
 ## ✨ Sobre mi
 
