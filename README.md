@@ -15,7 +15,7 @@
 - [Nano Store: Estado global en Astro](https://medium.com/somos-pragma/nano-store-estado-global-en-astro-734725fe1773)
 - [Maquinas de estado finitas en FrontEnd: El secreto para un código más robusto]()
 - [Cache Busting - La guía definitiva para evitar problemas de caché en tus despliegues]()
-- [Algoritmos en FrontEnd: Bloom filter]()
+- [Algoritmos en FrontEnd: Bloom filter](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-bloom-filter-bd53c4cb9067)
 - Patrones de diseño aplicados a Frontend (_En roadmap 🚀_)
 - Integrando Contentful en Astro: Hagamos sitios con contenido dinámico (_En roadmap 🚀_)
 
