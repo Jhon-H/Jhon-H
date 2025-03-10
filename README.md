@@ -15,11 +15,12 @@
 - [Nano Store: Estado global en Astro](https://medium.com/somos-pragma/nano-store-estado-global-en-astro-734725fe1773)
 - [Maquinas de estado finitas en FrontEnd: El secreto para un código más robusto]()
 - [Cache Busting - La guía definitiva para evitar problemas de caché en tus despliegues]()
+- [Algoritmos en FrontEnd: Bloom filter]()
 - Patrones de diseño aplicados a Frontend (_En roadmap 🚀_)
 - Integrando Contentful en Astro: Hagamos sitios con contenido dinámico (_En roadmap 🚀_)
 
 ## ✨ Sobre mi
 
-Soy ingeniero de softwarecon más de 4 años de experiencia en la creación de aplicaciones empresariales de gran impacto. He implementado soluciones tecnológicas para clientes usando Angular, React, Gatsby, Next y Astro para lograr aplicaciones robustas y escalables.
+Soy ingeniero de software con más de 4 años de experiencia en la creación de aplicaciones empresariales de gran impacto. He implementado soluciones tecnológicas para clientes usando Angular, React, Gatsby, Next y Astro para lograr aplicaciones robustas y escalables.
 
 Me apasiona la algoritmia y disfruto aprendiendo constantemente sobre nuevos temas relacionados con la ingeniería de software. Actualmente, estoy desarrollando proyectos personales que buscan aportar valor a la comunidad de desarrollo.
