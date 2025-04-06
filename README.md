@@ -13,15 +13,14 @@
 
 - [Introducción a Astro: Una guía práctica para principiantes](https://medium.com/somos-pragma/introducci%C3%B3n-a-astro-una-gu%C3%ADa-pr%C3%A1ctica-para-principiantes-9323a4fa428d)
 - [Nano Store: Estado global en Astro](https://medium.com/somos-pragma/nano-store-estado-global-en-astro-734725fe1773)
-- [Maquinas de estado finitas en FrontEnd: El secreto para un código más robusto]()
-- [Cache Busting - La guía definitiva para evitar problemas de caché en tus despliegues]()
-- Patrones de diseño aplicados a Frontend (_En roadmap 🚀_)
-- Integrando Contentful en Astro: Hagamos sitios con contenido dinámico (_En roadmap 🚀_)
+- Maquinas de estado finitas en FrontEnd: El secreto para un código más robusto (_En roadmap 🚀_)
 
 ### Serie "Algoritmos en FrontEnd"
 - [Algoritmos en FrontEnd: Bloom filter](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-bloom-filter-bd53c4cb9067)
 - [Algoritmos en Frontend: Big O en pocas palabras](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-big-o-en-pocas-palabras-389d48a74511)
 - [Algoritmos en Frontend: Recursión](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-recursion-7fad0935feef)
+- [Algoritmos en Frontend: Backtracking](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-backtracking-1abc1ed69e17)
+- [Algoritmos en Frontend: Búsqueda binaria](https://medium.com/@jhon.jairo.hernandez/algoritmos-en-frontend-busqueda-binaria-971e07625e47)
 
 
 ## ✨ Sobre mi
